@@ -1,5 +1,7 @@
 # asnk-vas1
 cryptographic algorithm for encrypting text, salt-based
+<br>
+<a href="https://marshallovski.github.io/asnk-vas1/playground/">Live playground</a>
 
 ## Salt variants
 you can use any other salt-generator, see other methods in `./utils/salt`
